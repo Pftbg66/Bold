@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bold</string>
+    <string name="a11y_desc">Draws the always-on QWERTY keyboard and types into the focused field.</string>
+</resources>
